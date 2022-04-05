@@ -1,5 +1,5 @@
 radio.onReceivedNumber(function (receivedNumber) {
-    if (0 == 0 || 0 == 0) {
+    if (receivedNumber == 2 || receivedNumber == 2) {
         proximité = 1
         basic.pause(100)
         proximité = 0
